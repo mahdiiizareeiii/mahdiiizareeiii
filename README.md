@@ -8,4 +8,9 @@ Backend developer, CE student of IAUCTB
 - 📫 How to reach me: mailto:mahdi.zareei.80@gmail.com
 
 Languages and Tools:
-cplusplus django linux mongodb python javascript node.js
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,django,py,js,nodejs,linux," />
+  </a>
+</p>
+
