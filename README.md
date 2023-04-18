@@ -5,7 +5,7 @@ Backend developer, CE student of IAUCTB
 - 🔭 I’m currently working on developing projects usin' javascript & node.js
 - 🌱 I’m currently learning technologies related to backend
 - Telegram id : @mahdi_zareei
-- 📫 How to reach me: mailto:mahdi.zareei.80@gmail.com
+- 📫 How to reach me: mahdi.zareei.80@gmail.com
 
 Languages and Tools:
 <p align="center">
