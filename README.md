@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Mahdi
 
-Backend developer, CE student of IAUCTB
+Backend developer
 
 - 🔭 I’m currently working on developing projects usin' javascript & node.js
 - 🌱 I’m currently learning technologies related to backend
